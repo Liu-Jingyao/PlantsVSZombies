@@ -1,0 +1,2 @@
+D:\CodeWorks\C++works\实践作业\最终提交版\PlantsVSZombies\x64\Debug\PlantsVSZombies.exe
+D:\CodeWorks\C++works\实践作业\最终提交版\PlantsVSZombies\x64\Debug\PlantsVSZombies.pdb
